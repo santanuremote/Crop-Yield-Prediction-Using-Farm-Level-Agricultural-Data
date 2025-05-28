@@ -48,11 +48,11 @@ ________________________________________
 •	matplotlib, seaborn
 •	pandas, numpy
 ________________________________________
-🚀 Getting Started
-git clone https://github.com/your-username/crop-yield-regression.git
+git clone https://github.com/santanuremote/crop-yield-regression.git
 cd crop-yield-regression
 pip install -r requirements.txt
-python model_training.py
+python run_all_models.py
+
 ________________________________________
 📝 Results Summary
 Model	MSE	R² Score
